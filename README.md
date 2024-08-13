@@ -14,6 +14,6 @@ As this was my first EDA project I learnt a lot. The dataset was very large and 
 ### What I could improve upon: 
   1. The effciency of my code: in hindsight, some methods about how I went about cleaning data were not effcient
   2. Ensuring I use categorical data types when possible to save memory
-  3. Improving the presentation and motive behind certain visualisations: next time I want to have clear questions in mind and a clear and sensible idea on how is best to visualise certain data
+  3. Improving the presentation and motive behind certain visualisations: next time I want to have clear questions in mind and a clear and sensible idea on how is best to visualise certain data. I also want to become more comfortable taking advantage of Pandas built in `df.plot` method.
 # Zomato Restaurant Dataset
 - **Mid August** : Zomato Dataset: Work in progress...
