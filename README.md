@@ -2,7 +2,7 @@
 
 A collection of all my data analysis projects. To run, ensure you have a Kaggle api token.
 # Ultra Marathon Large Dataset
-**Late July**: Ultramarathon Dataset: A dataset with over 7 million entries of UM competitors over the past two centuries. This project involved cleaning, formatting and standardising data as well as engineering new features all using Pandas. It also involved using Matplotlib and Seaborn to visualise data.
+**Late July**: Ultramarathon Dataset: A dataset with over 7 million entries of UM competitors over the past two centuries. This project involved cleaning, formatting and standardising data as well as engineering new features all using Pandas. It also involved using Matplotlib and Seaborn to visualise data. [Ultra Marathon Project.ipynb]
 ### What I Learned: 
 As this was my first EDA project I learnt a lot. The dataset was very large and it required a lot of cleaning. The dataset required me to be creative in the ways I solved some of the data cleaning issues I was having. I became better at picking up errors in my results and trouble shooting bugs in my code. More specifically some things I learnt were: 
   1. How to find, count and delete missing and duplicate values
