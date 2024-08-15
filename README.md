@@ -10,11 +10,11 @@ As this was my first EDA project I learnt a lot. The dataset was very large, and
 - **Creating bins for categorical data:** Using `pd.cut` to create bins/categories for numeric data. This was helpful when creating my own standardised age categories as many races used a different set of age categories.
 - **The power of regular expressions for data cleaning/extraction:** How to use regular expressions to clean and extract data. For example, I had to use regular expression to extract content from the last parenthesis in a specific column.
 - **The importance of standardising columns**: I learnt how to create functions to return a standardised result (for example, making sure all distances were recorded in km).
-  6. **Power of`df.groupby` and aggregation functions:** I used `df.groupby` and aggregate functions to quickly obtain and visualise information about subsets of data.
-### What I could improve upon: 
-  1. The efficiency of my code: in hindsight, some methods about how I went about cleaning data were not efficient. I need to continue to learn of new string methods and methods in pandas in order to speed up the way I go about cleaning data.    
-  2. Ensuring I use categorical data types when possible to save memory. The dataset I worked with was very large, it would’ve helped to use a more memory efficient data type when possible.
-  3. Improving the presentation and motive behind certain visualisations: next time I want to have clear questions in mind and a clear and sensible idea on how is best to visualise certain data. I also want to become more comfortable taking advantage of Pandas built in `df.plot` method.
+- **Power of`df.groupby` and aggregation functions:** I used `df.groupby` and aggregate functions to quickly obtain and visualise information about subsets of data.
+### What I could improve upon:
+- **The efficiency of my code**: in hindsight, some methods about how I went about cleaning data were not efficient. I need to continue to learn of new string methods and methods in pandas in order to speed up the way I go about cleaning data.    
+- Ensuring I use **categorical data types** when possible to save memory. The dataset I worked with was very large, it would’ve helped to use a more memory efficient data type when possible.
+  3. **Improving the presentation and motive behind certain visualisations**: next time I want to have clear questions in mind and a clear and sensible idea on how is best to visualise certain data. I also want to become more comfortable taking advantage of Pandas built in `df.plot` method.
 # Zomato Restaurant Dataset
 - **Mid August** : Zomato Dataset: A dataset with nearly 10,000 entries of restaurants on Zomato. Unlike the first project, this one didn't involve much data cleaning so it allowed me to spend more time focusing on how I visualised the dataset.  
 ### What I Learned: 
